@@ -1,6 +1,8 @@
 [submodule "depends/ate-pairing"]
-	path = depends/ate-pairing
-	url = https://github.com/herumi/ate-pairing.git
+        path = depends/ate-pairing
+        url = https://github.com/degatedev/ate-pairing.git
+        branch = e698901
 [submodule "depends/xbyak"]
-	path = depends/xbyak
-	url = https://github.com/herumi/xbyak.git
+        path = depends/xbyak
+        url = https://github.com/degatedev/xbyak.git
+        branch = f0a8f7f
